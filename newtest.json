@@ -1,9 +1,0 @@
-{
-    "url": "https://raw.githubusercontent.com/noobsixt9/swaggerxsstest/refs/heads/main/newxss.yaml",
-    "urls": [
-        {
-            "url": "https://raw.githubusercontent.com/noobsixt9/swaggerxsstest/refs/heads/main/newxss.yaml",
-            "name": "Test"
-        }
-    ]
-}
